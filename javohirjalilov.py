@@ -1,1 +1,1 @@
-print("javohir")
+print("Mirjaxon Shomurodov")

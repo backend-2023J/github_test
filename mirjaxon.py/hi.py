@@ -1,0 +1,1 @@
+print("Mirjaxon Shomurodov")
